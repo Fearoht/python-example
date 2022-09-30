@@ -12,6 +12,10 @@ class Calculadora:
         return self.A - self.B
 
 
+    def mult(self):
+        return self.A * self.B
+
+
 
 
 calc = Calculadora(19, 3)
