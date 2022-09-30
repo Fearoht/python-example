@@ -15,4 +15,10 @@ git commit --m "Chore: Add first main py file"
 
 git push origin main
 
+git fetch 
+
+git checkout develop
+
+git branch
+
 ```
