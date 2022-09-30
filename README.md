@@ -21,4 +21,7 @@ git checkout develop
 
 git branch
 
+
+git checkout main
+git merge develop
 ```
