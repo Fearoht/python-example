@@ -24,6 +24,9 @@ git branch
 
 git checkout main
 git merge develop
+
+
+git pull origin main 
 ```
 
 
